@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8590" started-at="2019-10-16T11:22:46Z" finished-at="2019-10-16T11:22:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8590" started-at="2019-10-16T11:22:46Z" finished-at="2019-10-16T11:22:54Z">
+      <class name="apiAutomation.hashtag">
+        <test-method status="PASS" signature="hash()[pri:0, instance:apiAutomation.hashtag@5bcab519]" name="hash" duration-ms="8549" started-at="2019-10-16T16:52:46Z" finished-at="2019-10-16T16:52:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hash -->
+      </class> <!-- apiAutomation.hashtag -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
